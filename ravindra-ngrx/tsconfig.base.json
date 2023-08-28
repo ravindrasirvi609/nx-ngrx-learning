@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "auth": ["auth/src/index.ts"],
       "home": ["home/src/index.ts"]
     }
   },
